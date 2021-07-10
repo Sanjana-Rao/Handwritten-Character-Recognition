@@ -1,0 +1,26 @@
+.flex-container {
+    display: flex;
+}
+.card-body{
+    text-align: auto;
+    color: rgb(189, 73, 204);
+
+}
+h3{
+    color: rgb(196, 13, 89);
+}
+.flex-child {
+    flex: 1;
+    border: 2px solid rgb(96, 202, 188);
+    
+}  
+
+img{
+    height: 10rem;
+    margin: 0px 0px 0px 80px;
+
+   
+    border-radius: 50%;
+    border: 5px solid rgb(209, 223, 150);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
